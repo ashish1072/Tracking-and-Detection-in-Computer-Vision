@@ -1,5 +1,3 @@
-## Will be completed by 6th Feb 2020 
-
 ## Implementation of full Pipeline for Instance Classification and Pose Estimation using CNNs in Python
 
 ### Task0
